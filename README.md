@@ -22,6 +22,18 @@ Due to file size limitations, datasets are not included in this repository. They
 
 ---
 
+## Dataset Access
+
+Due to file size limitations, datasets are not included in this repository.
+
+They can be downloaded from:
+
+* Fear & Greed Index: https://drive.google.com/file/d/1yR62o2XoTjaO-ChSE1aWRKL4fQWlq2T_/view?usp=sharing
+* Historical Trader Data: https://drive.google.com/file/d/1-XSoM1P-f45ZYXS319tIu72WsLl0W2O_/view?usp=sharing
+
+Place the files in the project directory before running the code.
+
+
 ## Methodology
 
 ### Data Preparation
