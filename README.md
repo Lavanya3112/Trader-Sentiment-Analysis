@@ -6,6 +6,19 @@ This project analyzes how market sentiment (Fear and Greed) influences trader pe
 
 ---
 
+## Dataset Access
+
+Due to file size limitations, datasets are not included in this repository.
+
+They can be downloaded from:
+
+* Fear & Greed Index: https://drive.google.com/file/d/1yR62o2XoTjaO-ChSE1aWRKL4fQWlq2T_/view?usp=sharing
+* Historical Trader Data: https://drive.google.com/file/d/1-XSoM1P-f45ZYXS319tIu72WsLl0W2O_/view?usp=sharing
+
+Place the files in the project directory before running the code.
+
+---
+
 ## Dataset
 
 Two datasets are used in this analysis:
@@ -19,19 +32,6 @@ Two datasets are used in this analysis:
    * Includes trade-level data such as account, position size, direction, and closed PnL
 
 Due to file size limitations, datasets are not included in this repository. They can be accessed from the links provided in the assignment.
-
----
-
-## Dataset Access
-
-Due to file size limitations, datasets are not included in this repository.
-
-They can be downloaded from:
-
-* Fear & Greed Index: https://drive.google.com/file/d/1yR62o2XoTjaO-ChSE1aWRKL4fQWlq2T_/view?usp=sharing
-* Historical Trader Data: https://drive.google.com/file/d/1-XSoM1P-f45ZYXS319tIu72WsLl0W2O_/view?usp=sharing
-
-Place the files in the project directory before running the code.
 
 ---
 
